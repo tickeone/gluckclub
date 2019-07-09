@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "idFornecedor": 1,
+        "nome": "Coxinha",
+        "descricao": "Coxinha com o melhor e maior recheio de curitiba",
+        "imagem": "coxinha.jpg"
+    },
+    {
+        "id": 2,
+        "idFornecedor": 1,
+        "nome": "Risoles",
+        "descricao": "Risoles BBB",
+        "imagem": "risoles.jpg"
+    },
+    {
+        "id": 3,
+        "idFornecedor": 1,
+        "nome": "Bolinha de queijo",
+        "descricao": "Bolinha de queijo 4m",
+        "imagem": "bolinha.jpg"
+    },
+    {
+        "id": 4,
+        "idFornecedor": 2,
+        "nome": "Brigadeiro",
+        "descricao": "Breigadeiro fitness, pode comer sem peso na consciencia",
+        "imagem": "brigadeiro.jpg"
+    },
+    {
+        "id": 5,
+        "idFornecedor": 3,
+        "nome": "Bolo",
+        "descricao": "Bolo daqueles",
+        "imagem": "bolo.jpg"
+    }
+]
